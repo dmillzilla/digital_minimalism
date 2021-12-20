@@ -8,3 +8,4 @@ In each section, I outline the **Current State** of my interaction with the tech
 
 - [Email](./email)
 - [News](./news)
+- [Social Media](./social_media)
