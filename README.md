@@ -2,8 +2,8 @@
 
 This is a personal guide for how I plan to attempt digital minimalism. This guide is broken down into two parts:
 
-1. [Days 0 to 29](days-0-to-29) - A break from all opt-in technology
-2. [Day 30 and Beyond](day-30-and-beyond) - A philosophy for engaging technology
+1. **Days 0 to 29** - A break from all opt-in technology
+2. **Day 30 and Beyond** - A philosophy for engaging technology
 
 For more on digital minimalism and how to declutter your online life, check out [_Digital Minimalism_ by Cal Newport][digital_minimalism_book].
 
