@@ -1,6 +1,6 @@
 # Social Media
 
-## Content
+### Content
 
 - [Blind](./blind.md)
 - [Discord](./discord.md)

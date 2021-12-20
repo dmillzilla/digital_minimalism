@@ -1,6 +1,6 @@
 # News
 
-## Content
+### Content
 
 - [Google News](./google_news.md)
 - [Newspaper](./newspaper.md)

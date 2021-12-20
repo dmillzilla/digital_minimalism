@@ -1,6 +1,6 @@
 # Email
 
-## Content
+### Content
 
 - [Personal Email](./personal_email.md)
 - [Work Email](./work_email.md)
