@@ -130,3 +130,12 @@ The following are all apps I've deleted off my iPhone:
 - Stocks
 - Compass
 - Measure
+- Apple Support
+- Google Assistant
+- Genius Scan
+- Acrobat
+- Bible
+- SAP Concur
+- Pages
+- Keynote
+- Numbers
