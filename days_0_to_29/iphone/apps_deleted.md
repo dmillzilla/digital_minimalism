@@ -1,0 +1,132 @@
+# Apps Deleted
+
+The following are all apps I've deleted off my iPhone:
+
+- Twitter
+- YouTube
+- Instagram
+- Podcasts
+- Audible
+- LinkedIn
+- HBO Max
+- 99 Bricks
+- GroupMe
+- [adult swim]
+- theScore
+- HEY
+- Canva
+- Vrbo
+- Home by ShowingTime
+- Sudoku
+- Nespresso
+- Goodreads
+- Bloons TD 6
+- Google Drive
+- nkoda
+- Stumble Guys
+- Among Us
+- Cameo
+- Amazon
+- ReadScripture
+- Obsidian
+- ESPN
+- Groupon
+- Panera Bread
+- Glassdoor
+- MyFitnessPal
+- Apple Store
+- OverDrive
+- Strava
+- Waze
+- Lyft
+- Google Maps
+- iTunes U
+- iMovie
+- GarageBand
+- Clips
+- Tips
+- Google Docs
+- Netflix
+- Hulu
+- Twitch
+- Prime Video
+- IMDb
+- Fandango
+- Disney+
+- Videoleap
+- Apple TV
+- E\*TRADE
+- Facebook Messenger
+- Bitmoji
+- Instagram Layout
+- Pinterest
+- LinkedIn Learning
+- Steam
+- Ticketmaster
+- Shazam
+- Bandcamp
+- WeChat
+- Airbnb
+- Google Earth
+- KAYAK
+- GIPHY CAM
+- Gradient
+- Photoleap
+- SmugMug
+- CarMax
+- Redfin
+- Zillow
+- CNN
+- Books
+- Developer
+- News
+- Reddit
+- Translate
+- Google Translate
+- TurboTax
+- Chipotle
+- Domino's
+- DoorDash
+- Freddy's
+- Grubhub
+- Instacart
+- Jimmy John's
+- McDonald's
+- MrBeast Burger
+- Noodles & Co
+- Panda Express
+- Postmates
+- Starbucks
+- Taco Bell
+- Uber Eats
+- Yelp
+- Final Fantasy Tactics
+- FingerOnTheApp
+- GeoGuesser
+- Homescapes
+- Mario Kart
+- Mario Run
+- Skate 2
+- Sudoku
+- Tetris
+- Unblock Me
+- Reverb
+- Warby Parker
+- AllTrails
+- CovidHome Test
+- Lose It!
+- PagerDuty
+- GitHub
+- Trello
+- Dropbox
+- Shortcuts
+- Reminders
+- Blind
+- Speedtest
+- Google Authenticator
+- Blizzard Authenticator
+- Duolingo
+- iTunes Store
+- Stocks
+- Compass
+- Measure

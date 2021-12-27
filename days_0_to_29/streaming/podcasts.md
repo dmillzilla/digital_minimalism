@@ -1,5 +1,5 @@
 # Podcasts
 
-- The Podcast app will remain on my iPhone
-- I will only listen to the **Soft Skills Engineering** podcast
+- I will not listen to Podcasts
+- The Podcast app will be deleted off my iPhone
 - This podcast can only be listened to during work hours
